@@ -1,5 +1,5 @@
 # CS_5526_Final_Project
 
 Includes:
-1. Code that pre-processes DRKG
-2. Pre-processed DRKG file to run HyPE and Query2Box
+1. Code that pre-processes DRKG to run HyPE and Query2Box
+2. Statistics for DRKG
